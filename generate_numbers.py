@@ -13,4 +13,4 @@ def is_prime(n):
 
 def is_even(n):
     #Return true if 'n' is even, other returns false
-    #Code here
+    return n % 2 == 0
