@@ -10,3 +10,7 @@ def nth_fibonacci(n):
 def is_prime(n):
     #Return true if 'n' is prime, otherwise returns false
     #Code here
+
+def is_even(n):
+    #Return true if 'n' is even, other returns false
+    #Code here
